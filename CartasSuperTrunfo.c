@@ -57,7 +57,7 @@ int main() {
     printf(" -PIB: %.2f reais\n", pib);
     printf(" -PONTOS TURISTICOS: %d\n", turismo);
     printf(" -Densidade Populacional: %.2f hab/km²\n", densidade);
-    printf(" -PIB per Capita: %.2f reais\n", riqueza);
+    printf(" -PIB per Capita: %.3f reais\n", riqueza);
     printf("-------------------------------------------\n");
 
     // CARTA 2
@@ -99,7 +99,7 @@ int main() {
     printf(" -PIB: %.2f reais\n", pib2);
     printf(" -PONTOS TURISTICOS: %d\n", turismo2);
     printf(" -Densidade Populacional: %.2f hab/km²\n", densidade2);
-    printf(" -PIB per Capita: %.2f reais\n", riqueza2);
+    printf(" -PIB per Capita: %.3f reais\n", riqueza2);
     printf("-------------------------------------------\n");
 
     // RESULTADO FINAL
@@ -115,7 +115,7 @@ int main() {
     printf(" -PIB: %.2f reais\n", pib);
     printf(" -PONTOS TURISTICOS: %d\n", turismo);
     printf(" -Densidade Populacional: %.2f hab/km²\n", densidade);
-    printf(" -PIB per Capita: %.2f reais\n", riqueza);
+    printf(" -PIB per Capita: %.3f reais\n", riqueza);
     printf("-------------------------------------------\n");
 
     printf("\nCARTA 02:\n");
@@ -127,7 +127,7 @@ int main() {
     printf(" -PIB: %.2f reais\n", pib2);
     printf(" -PONTOS TURISTICOS: %d\n", turismo2);
     printf(" -Densidade Populacional: %.2f hab/km²\n", densidade2);
-    printf(" -PIB per Capita: %.2f reais\n", riqueza2);
+    printf(" -PIB per Capita: %.3f reais\n", riqueza2);
     printf("-------------------------------------------\n");
 
     return 0;
